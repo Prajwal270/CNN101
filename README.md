@@ -1,2 +1,2 @@
-# CNN1.1
-Convolution with TensorFlow and Keras
+# CNN101
+This Repository contains the code for implementation of Convolution neural network (CNN) using Tensorflow and Keras library.
